@@ -1,5 +1,5 @@
 # Yo! I'm Jakub :wave:  
-#### DevOps Enginneer @ASML in Eindhoven, Netherlands. 
+#### DevOps Enginneer
 ###### Software :heartpulse: :computer:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GetTuh)](https://github.com/GetTuh/About)  
